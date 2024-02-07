@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Top Delayed Aiports in the last 7 days</title>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="Assignment_2_Matthew_Wolfe.styles.css" asp-append-version="true" />
+    <style>
+        p.solid {
+            border-styler: solid;
+        }
+
+        table, th, td {
+            border: solid;
+        }
+    </style>
+</head>
+<body>
+    <h2>Top Airport Delays in the last 7 days in the United States</h2>
+    <table>
+        <tr>
+            <th>Number of Delays</th>
+            <th>Airport ICAO</th>
+        </tr>
+        <tr>
+            <td> Enter Airport Delay Numbers here</td>
+            <td> Enter Airport ICAO that is delayed here</td>
+        </tr>
+        <tr>
+            <td>Second Airport Delay Numbers</td>
+            <td>Second Airport ICAO code</td>
+        </tr>
+    </table>
+    <h2>Top Airport Delays in the last 7 days in Europe</h2>
+    <table>
+        <tr>
+            <th>Number of Delays</th>
+            <th>Airport ICAO</th>
+        </tr>
+        <tr>
+            <td> Enter Airport Delay Numbers here</td>
+            <td> Enter Airport ICAO that is delayed here</td>
+        </tr>
+        <tr>
+            <td>Second Airport Delay Numbers</td>
+            <td>Second Airport ICAO code</td>
+        </tr>
+    </table>
+  ##The function below will take the total number of reportee delys from the US and Europe for the last 7 days and find the average once the app is functional.  
+    <script>
+    function AverageDelayCalc(p1, p2){
+        return "The Average Number of Delays are: " + ((p1 + p2) / 2);
+        
+        }
+        function displayAverageDelayResult() {
+            let result = AverageDelayCalc(100, 250)
+            document.getElementById("averageDelays").innerHTML = result
+        }
+    </script>
+    <button type="button" onclick="displayAverageDelayResult()" id="DelayCalc">Click to see the Average Delays for the last 7 days between the U.S. and Europe</button>
+    
+    <p id="averageDelays"><</p>
+</body>
+</html>
