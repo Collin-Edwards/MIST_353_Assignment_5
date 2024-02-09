@@ -22,6 +22,8 @@ Help me make this button and function operational in JavaScript <script> functio
 
 I also used [w3 Schools](https://www.w3schools.com) as a resource for this project. I used it to help with creating HTML code for tables and forms, and some review of the basics. I also utilized class code as a resource as well.
 
+For assistance with markdown writing, I used this page on [Github](https://docs.github.com/en/get-started/writing-on-github)
+
 [Bootswatch](https://bootswatch.com/) was used to find a theme for Bootsrap 5 use. I chose Lux for this version ot the prototype. 
 ## Status and Improvement
 For this assignment, I did not achieve everything I had hoped to. Moving forward, I want to focus on some areas to make my prototype better and become better at application coding. Some of those things are:
