@@ -8,10 +8,10 @@ The second website I found is [FlightStats](https://www.flightstats.com). They h
 The third website I found is [FlightAware](https://www.flightaware.com). This website shows a map with current airport delays and things of that nature. There is a map with different airport codes and a color indicator of the conditions there. It also shows a current radar.  This website is the most complex one I have seen. The code is very long and contains many parts.  Lots of iframe, script, and div usage. There are also many URL changes. 
 
 # Part 2 GitHub Repositories
-https://github.com/parkersiu/airport-weather/blob/main/index.html
+[Airport-Weather by parkersiu](https://github.com/parkersiu/airport-weather/blob/main/index.html)
 This repository is interesting. The author is a licensed pilot who wanted to make an application for pilots to search weather conditions at airports. According to the README, there is Bootstrap, CSS, and HTML usage.  
 
-https://github.com/BraedenKilburn/AviationWeatherReports/tree/master/front-end
+[AvaiationWeatherReports by Braeden Kilburn](https://github.com/BraedenKilburn/AviationWeatherReports)
 This repository has code that can deliver reports for Pilot use such as METAR. This is interesting because it is something they need to do their flights. There is json use and the author has it nicely organized between forn-end and back-end. 
 
 # Part 3 
