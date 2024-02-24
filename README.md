@@ -5,7 +5,7 @@
 
 SkyOps is dedicated to revolutionizing the way airborne operations and aviation professionals plan their missions by integrating real-time weather updates and airport delay information into a single, user-friendly platform. Our aim is to enhance operational safety and efficiency by providing comprehensive weather briefings and delay insights for drop zones and airports worldwide.
 
-## End-User Actions and Corresponding Data Storage Needs
+## End-User Actions and Data Storage Needs
 
 To support the core functionalities of SkyOps, the following actions by end-users necessitate specific data storage and processing capabilities server-side:
 
