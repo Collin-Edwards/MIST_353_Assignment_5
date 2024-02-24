@@ -1,5 +1,9 @@
 # SkyOps Application README
 ![SKYOPS Logo](https://github.com/Collin-Edwards/MIST353_MatthewWolfe/blob/cefe054c5b09383054e21b6048745b8d6d45f741/SKYOPS.jpg?raw=true "SKYOPS Logo")
+![Beta Version](https://img.shields.io/badge/status-beta-orange.svg)
+![Build](https://img.shields.io/badge/build-MIST_3.53-green.svg)
+
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 ## Company Vision Statement
 
