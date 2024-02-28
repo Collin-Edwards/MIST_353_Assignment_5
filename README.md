@@ -46,7 +46,7 @@ To support the core functionalities of SkyOps, the following actions by end-user
 
 ## Citations
 
-This project was inspired by and utilized information from various sources,GitHub for code snippets and structural ideas,Bootswatch for custom Bootstrap themes, and last but not least the in person lectures for MIST 353 and the accessibility that they were uploaded on ecampus the next day to rewatch the material.
+This project was inspired by and utilized information from various sources,GitHub for code snippets and structural ideas,and last but not least, the in-person lectures for MIST 353 and the accessibility that they were uploaded on campus the next day to rewatch the material.
 
 ChatGPT Prompts:https://docs.google.com/document/d/1A1hZOQfa-l2s__0jU2CTVn5rb7XnHCymAuyXGYWTAhc/edit?usp=sharing
 
