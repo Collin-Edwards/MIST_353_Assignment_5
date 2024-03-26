@@ -2,43 +2,36 @@
 
 ![SkyOps SillySquid Logo](https://github.com/Collin-Edwards/MIST_353_Assignment_4/blob/b5cd8877fcd3b3215c6e8f644cf18e28e83b4013/skyops_sillysquid_V2.jpeg "SkyOps SillySquid Logo")
 
-## Introduction
+![Beta Version](https://img.shields.io/badge/status-beta_4.0-orange.svg)
+![Build](https://img.shields.io/badge/build-MIST_4.0-green.svg)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
-SkyOps is an innovative application designed to revolutionize the way aviation professionals and enthusiasts plan their airborne missions. By integrating real-time weather updates and airport delay information into one user-friendly platform, SkyOps aims to enhance safety and efficiency in aviation operations. This tool is ideal for pilots, air traffic controllers, and logistics coordinators looking for comprehensive, up-to-date information on weather conditions and airport delays worldwide.
 
-## Company Vision Statement
-
-At SkyOps, our mission is to provide aviation professionals with a seamless and intuitive platform that integrates critical operational data, such as real-time weather briefings and airport delay insights. Our vision is to become the go-to resource for enhancing operational safety and decision-making efficiency in the aviation community.
-
+[![Sponsor](https://img.shields.io/badge/sponsor-♥-ff69b4.svg)](https://github.com/sponsors/Collin-Edwards)
+[![Follow](https://img.shields.io/github/followers/Collin-Edwards?label=Follow&style=social)](https://github.com/Collin-Edwards)
 ## Webpage Descriptions
 
-### Home Page
-
+**Home Page** (Static)
 - **Overview:** Welcomes users with an engaging interface, showcasing the SkyOps mission and core features.
 - **Functionality:** Quick access to login/register, weather updates, and airport delay information. Features dynamic weather updates and news highlights related to aviation.
 
-### User Registration/Login
-
+**User Registration/Login** (Dynamic)
 - **Overview:** Secure user registration and login portal.
-- **Functionality:** New users can register by providing essential information. Returning users can log in to access their profiles and application features.
+- **Functionality:** New users can register by providing essential information. Returning users can log in to access their profiles and application features. Integrates with a user management API.
 
-### Weather Briefing Dashboard
-
+**Weather Briefing Dashboard** (Dynamic)
 - **Overview:** A comprehensive dashboard displaying weather conditions for selected drop zones and airports.
-- **Functionality:** Users can search and select drop zones or airports to view detailed weather briefings, including temperature, wind conditions, visibility, and more.
+- **Functionality:** Users can search and select drop zones or airports to view detailed weather briefings, integrating real-time data from a weather API.
 
-### Airport Delay Tracker
-
+**Airport Delay Tracker** (Dynamic)
 - **Overview:** Provides up-to-date information on delays at airports worldwide.
-- **Functionality:** Search functionality allows users to check for any delays at their airport of interest, including the duration and reasons for delays.
+- **Functionality:** Search functionality allows users to check for any delays at their airport of interest, integrating real-time data from an airport delay API.
 
-### Profile Management
-
+**Profile Management** (Static/Dynamic)
 - **Overview:** Allows users to update their profile information.
-- **Functionality:** Users can edit their personal details, including password and email. Additional settings for customizing notifications and preferences.
+- **Functionality:** Users can edit their personal details, including password and email. This page will dynamically update the user's information in the database.
 
-### About Us
-
+**About Us** (Static)
 - **Overview:** Information about SkyOps, our vision, and the team behind the project.
 - **Functionality:** Static page with contact information, contributing to the project, and a Q&A section.
 
@@ -56,8 +49,9 @@ At SkyOps, we prioritize the security and privacy of our users' data. This secti
 
 ## License
 
-SkyOps is made available under the [LICENSE NAME] License, allowing for redistribution and use in source and binary forms, with or without modification. For more details, refer to the LICENSE file in the project repository.
+SkyOps is open source and available under the MIT License. This allows for its wide use, modification, and distribution. We believe in the power of open source to foster innovation and collaboration. For more details, refer to the LICENSE file in the project repository.
 
 ## Contact Us
 
-For support, further inquiries, or feedback, please reach out to us at [Contact Information]. We are dedicated to improving SkyOps and value your input.
+For support, further inquiries, or feedback, please reach out to us below. We are dedicated to improving SkyOps and value your input.
+Collin Edwards:https://www.linkedin.com/in/collin-edwards-6b751a244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiuIDXSLLR2y1P5Ld9ad11Q%3D%3D
