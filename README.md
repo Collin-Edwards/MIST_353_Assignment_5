@@ -29,7 +29,7 @@
 
 **Profile Management** (Static/Dynamic)
 - **Overview:** Allows users to update their profile information.
-- **Functionality:** Users can edit their personal details, including password and email. This page will dynamically update the user's information in the database.
+- **Functionality:** Users can edit their personal details, including passwords and email. This page will dynamically update the user's information in the database.
 
 **About Us** (Static)
 - **Overview:** Information about SkyOps, our vision, and the team behind the project.
@@ -54,4 +54,5 @@ SkyOps is open source and available under the MIT License. This allows for its w
 ## Contact Us
 
 For support, further inquiries, or feedback, please reach out to us below. We are dedicated to improving SkyOps and value your input.
-Collin Edwards:https://www.linkedin.com/in/collin-edwards-6b751a244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiuIDXSLLR2y1P5Ld9ad11Q%3D%3D
+
+Collin Edwards:https://www.linkedin.com/in/collin-edwards-6b751a244/
