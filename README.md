@@ -39,13 +39,6 @@
 
 We welcome contributions from the community! Whether you're looking to report a bug, suggest a feature, or contribute code, please follow our contribution guidelines detailed here. For any contributions, please open a pull request or issue on GitHub, ensuring you provide sufficient information and context.
 
-## Installation and Setup
-
-This section will provide detailed instructions on how to set up the SkyOps application for development or use. It will include steps for installing necessary dependencies, running the application locally, and any other relevant setup information.
-
-## Security and Privacy
-
-At SkyOps, we prioritize the security and privacy of our users' data. This section outlines the measures we take to protect user information and ensure a secure experience.
 
 ## License
 
