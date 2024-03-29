@@ -49,3 +49,8 @@ SkyOps is open source and available under the MIT License. This allows for its w
 For support, further inquiries, or feedback, please reach out to us below. We are dedicated to improving SkyOps and value your input.
 
 Collin Edwards:https://www.linkedin.com/in/collin-edwards-6b751a244/
+
+Citations
+
+This project was inspired by and utilized information from various sources,GitHub for code snippets and structural ideas,and last but not least, the in-person lectures for MIST 353 and the accessibility that they were uploaded on campus the next day to rewatch the material.
+ChatGPT Prompts: https://docs.google.com/document/d/1lTT42T5wpONMjBYGvr-L4pP5QgQvlrOmRiDHDNlB8kc/edit?usp=sharing
