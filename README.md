@@ -1,6 +1,6 @@
 # SkyOps Application README
 
-![SkyOps SillySquid Logo](https://github.com/Collin-Edwards/MIST_353_Assignment_4/blob/b5cd8877fcd3b3215c6e8f644cf18e28e83b4013/skyops_sillysquid_V2.jpeg "SkyOps SillySquid Logo")
+![SkyOps SillySquid Logo]([https://github.com/Collin-Edwards/MIST_353_Assignment_4/blob/b5cd8877fcd3b3215c6e8f644cf18e28e83b4013/skyops_sillysquid_V2.jpeg "SkyOps SillySquid Logo](https://github.com/Collin-Edwards/MIST_353_Assignment_5/blob/master/The%20Final%20Logo.png)")
 
 ![Beta Version](https://img.shields.io/badge/status-beta_4.0-orange.svg)
 ![Build](https://img.shields.io/badge/build-MIST_4.0-green.svg)
